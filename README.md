@@ -53,9 +53,9 @@ I also added some lines to make it look like a floppy disk, and added some other
 
 ## Schematic
 
-![Schematic](schematic.svg)
+![Schematic](schematic.png)
 
 ## PCB
 
-![PCB Front](pcb_f.svg)
-![PCB Back](pcb_b.svg)
+![PCB Front](pcb_f.png)
+![PCB Back](pcb_b.png)
