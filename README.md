@@ -6,7 +6,8 @@ Slack username: `frosetrain`
 
 Made for https://solder.hackclub.com
 
-![3D Render](3d.jpg)
+![3D Front Render](3d_f.jpg)
+![3D Back Render](3d_b.jpg)
 
 ## Features
 
